@@ -115,6 +115,6 @@ get_driver_color("ALO", season = 2024, round = 3)
 
 > Note: `f1dataR` uses the **Jolpica‑F1 API** (as Ergast is being deprecated), with data sourced through Fast‑F1 via a Python bridge.
 
----
+----
 
 📌 **Start your F1 data journey today with Fast‑F1!** 🏎️
