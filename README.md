@@ -2,7 +2,7 @@
 
 Fast‑F1 is a Python library for accessing and analyzing Formula 1 data such as timing, telemetry, results, and weather. This guide shows you how to install, use, and explore Fast‑F1 effectively.
 
-jebehrbdhbfjfjfjfurutjrhri
+jebehrbdhbfjffjfurutjrhri
 ## 🚀 Installation
 
 As of **September 5, 2025**, the latest release is **FastF1 3.6.1**.
